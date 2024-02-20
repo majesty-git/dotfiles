@@ -1,0 +1,7 @@
+import = ["~/.config/alacritty/rose-pine-moon.toml"]
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
