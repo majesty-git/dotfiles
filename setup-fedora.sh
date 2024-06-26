@@ -13,7 +13,7 @@ sudo dnf config-manager --enable fedora-cisco-openh264
 
 sleep 1
 
-sudo dnf install -y git neovim alacritty unzip rofi firefox btop neofetch pcmanfm lxappearance polybar pavucontrol feh ffmpeg qt5-base-devel qt5ct flatpak steam lutris akmod-nvidia xorg-x11-drv-nvidia-cuda xrandr telegram i3
+sudo dnf install -y git neovim alacritty unzip rofi firefox btop neofetch pcmanfm lxappearance polybar pavucontrol feh ffmpeg qt5-base-devel qt5ct flatpak steam lutris akmod-nvidia xorg-x11-drv-nvidia-cuda xrandr telegram i3 wget
 
 
 echo "Done"
