@@ -22,7 +22,7 @@ sleep 1
 
 echo "Importing dotfiles"
 
-git clone https://github.com/majesty-git/dotfiles.git
+#git clone https://github.com/majesty-git/dotfiles.git
 
 mv ~/dotfiles/* ~
 mv ~/dotfiles/*. ~
